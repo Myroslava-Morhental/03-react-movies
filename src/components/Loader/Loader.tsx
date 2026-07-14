@@ -5,4 +5,3 @@ function Loader() {
 }
 
 export default Loader;
-it;
